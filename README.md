@@ -62,4 +62,5 @@ http://localhost:1234/auth/login?email=david.cagigas@gmail.com&password=123456
 ```
 I haven't added the endpoints to create new users (some parts are coded), so I've included a initial user to test it.
 Use Typescript for types check.
+Use dotenv to load environment variables.
 
